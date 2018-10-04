@@ -1,5 +1,4 @@
-/data/raw/
+/data/
 .RData
 .Rhistory
 .DS_Store
-codes/_
